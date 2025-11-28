@@ -1,4 +1,4 @@
-package lucasvargas.javaintroducao02;
+package lucasvargas.javaintroducao02.Arrays;
 
 public class Aula07Arrays02 {
 
